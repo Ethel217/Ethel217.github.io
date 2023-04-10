@@ -1,3 +1,4 @@
+http://example.com/2023/04/10/Review-%E6%9C%B1%E8%87%AA%E6%B8%85/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/about/index.html
