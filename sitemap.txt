@@ -1,0 +1,9 @@
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/2023/04/10/Review-%E6%9F%B3%E7%83%88%E7%9A%84%E9%9F%B3%E4%B9%90%E4%B8%93%E8%BE%91/
+http://example.com/2023/04/10/hexo-info/
+http://example.com/2023/04/10/TODO-list-for-hexo/
+http://example.com/2023/04/10/Review-The-English-Patient/
+http://example.com/2023/04/10/hello-world/
+http://example.com/
